@@ -1,0 +1,23 @@
+# ignore everything in the root except the "wp-content" directory.
+modules/standart/DataBase.php
+
+*.sql
+*.sqlite
+
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+#ignore php tmp files
+*.php~
+*.php_
+*.php__
+
+cache/*
+userfiles/*
+advert/files/*
+advert/statistic/*
+advert/users/*

@@ -1,0 +1,39 @@
+Options All -Indexes
+DirectoryIndex index.php
+AddDefaultCharset utf-8
+php_value display_error 1
+php_value error_reporting E_ALL
+php_value default_charset utf-8
+php_flag register_globals off
+php_flag magic_quotes_gpc off
+php_flag magic_quotes_runtime off
+
+php_value session.cookie_domain "localhost"
+php_value post_max_size 2000M
+php_value session.gc_maxlifetime 172800
+php_value session.cookie_lifetime 172800
+php_value session.gc_probability 1
+php_value max_execution_time 180
+php_value max_input_time 30
+
+Redirect /appmobile.version /appmobile.version.php
+Redirect /putevoditel_po_kazani http://prokazan.ru/guide
+Redirect /kupon_probragenie /userfiles/kupon.jpg
+
+RewriteEngine On
+RewriteBase /
+
+# RewriteCond %{HTTP_HOST} ^www\.prokazan\.ru$ [NC]
+# RewriteRule ^(.*)$ http://prokazan.ru/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^guide\.prokazan\.ru$ [NC]
+RewriteRule ^(.*)$ http://prokazan.ru/guide [R=301,L]
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_URI} !.*\.(ico|gif|jpg|jpeg|png|js|css)
+#RewriteRule ^(.*)$ index.php [QSA,L]
+
+ErrorDocument 404 /
+ErrorDocument 403 /
+ErrorDocument 401 /

@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Exchange_Rates>
+  <Actual_Rates>
+    <Bank>
+      <Name>Банк "Аверс"</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=54</Url>
+      <USD>
+        <Buy>65,50</Buy>
+        <Sell>66,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,80</Buy>
+        <Sell>75,90</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:04</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>АНКОР БАНК</Name>
+      <Url/>
+      <USD>
+        <Buy>64,00</Buy>
+        <Sell>67,00</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,50</Buy>
+        <Sell>76,50</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>БАНК "ЮГРА"</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=143</Url>
+      <USD>
+        <Buy>64,50</Buy>
+        <Sell>67,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,25</Buy>
+        <Sell>77,25</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:12</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Выборг-банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=117</Url>
+      <USD>
+        <Buy>65,75</Buy>
+        <Sell>66,45</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,25</Buy>
+        <Sell>76,00</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 13:19</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Банк "Заречье"</Name>
+      <Url/>
+      <USD>
+        <Buy>64,70</Buy>
+        <Sell>67,30</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,60</Buy>
+        <Sell>76,80</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>ИК Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=283</Url>
+      <USD>
+        <Buy>65,00</Buy>
+        <Sell>67,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>76,55</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 13:35</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>АКИБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=497</Url>
+      <USD>
+        <Buy>65,10</Buy>
+        <Sell>66,80</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,55</Buy>
+        <Sell>76,05</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 08:56</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>ПАО МОСОБЛБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=290</Url>
+      <USD>
+        <Buy>65,00</Buy>
+        <Sell>68,00</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>77,00</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:49</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Россельхозбанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=820</Url>
+      <USD>
+        <Buy>65,60</Buy>
+        <Sell>66,75</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,75</Buy>
+        <Sell>76,25</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Сбербанк России</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=246</Url>
+      <USD>
+        <Buy>63,55</Buy>
+        <Sell>68,65</Sell>
+      </USD>
+      <EUR>
+        <Buy>72,68</Buy>
+        <Sell>78,12</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Газпромбанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=44</Url>
+      <USD>
+        <Buy>65,10</Buy>
+        <Sell>67,20</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,50</Buy>
+        <Sell>76,60</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:49</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Запсибкомбанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=150</Url>
+      <USD>
+        <Buy>64,00</Buy>
+        <Sell>66,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>76,50</Sell>
+      </EUR>
+      <ChangeTime>05.05.2016 22:12</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>МДМ Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=41</Url>
+      <USD>
+        <Buy>65,70</Buy>
+        <Sell>66,70</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,10</Buy>
+        <Sell>76,10</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:04</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>БИНБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=487</Url>
+      <USD>
+        <Buy>65,80</Buy>
+        <Sell>66,65</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,20</Buy>
+        <Sell>76,05</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 13:04</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Банк ФИНАМ</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=583</Url>
+      <USD>
+        <Buy>63,50</Buy>
+        <Sell>66,40</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>75,85</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 13:21</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Промсвязьбанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=760</Url>
+      <USD>
+        <Buy>64,14</Buy>
+        <Sell>68,14</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,57</Buy>
+        <Sell>77,57</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 13:35</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Региональный коммерческий банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=920</Url>
+      <USD>
+        <Buy>65,00</Buy>
+        <Sell>66,80</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>76,20</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 07:56</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>НОВИКОМБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=478</Url>
+      <USD>
+        <Buy>65,50</Buy>
+        <Sell>66,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,85</Buy>
+        <Sell>75,85</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:21</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Связь-Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=244</Url>
+      <USD>
+        <Buy>65,10</Buy>
+        <Sell>67,10</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,50</Buy>
+        <Sell>76,55</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>«АК БАРС» БАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=499</Url>
+      <USD>
+        <Buy>65,00</Buy>
+        <Sell>66,61</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,11</Buy>
+        <Sell>76,08</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Тимер Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=915</Url>
+      <USD>
+        <Buy>65,65</Buy>
+        <Sell>66,85</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,80</Buy>
+        <Sell>76,20</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:24</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Райффайзенбанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=786</Url>
+      <USD>
+        <Buy>63,60</Buy>
+        <Sell>68,95</Sell>
+      </USD>
+      <EUR>
+        <Buy>72,60</Buy>
+        <Sell>78,70</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:04</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>СКБ-банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=114</Url>
+      <USD>
+        <Buy>65,51</Buy>
+        <Sell>66,99</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,76</Buy>
+        <Sell>76,24</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Спурт Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=381</Url>
+      <USD>
+        <Buy>64,75</Buy>
+        <Sell>67,75</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,15</Buy>
+        <Sell>77,15</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>АИКБ «Татфондбанк»</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=687</Url>
+      <USD>
+        <Buy>65,65</Buy>
+        <Sell>66,85</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,05</Buy>
+        <Sell>76,25</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Булгар банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=316</Url>
+      <USD>
+        <Buy>65,01</Buy>
+        <Sell>67,20</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,10</Buy>
+        <Sell>76,50</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:19</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Абсолют Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=413</Url>
+      <USD>
+        <Buy>64,00</Buy>
+        <Sell>68,00</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,00</Buy>
+        <Sell>77,00</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 07:26</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Банк Казани</Name>
+      <Url/>
+      <USD>
+        <Buy>65,40</Buy>
+        <Sell>66,95</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,80</Buy>
+        <Sell>76,35</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>ТАТАГРОПРОМБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=118</Url>
+      <USD>
+        <Buy>65,20</Buy>
+        <Sell>66,40</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,90</Buy>
+        <Sell>75,90</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 12:02</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>ОТП Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=563</Url>
+      <USD>
+        <Buy>64,75</Buy>
+        <Sell>67,75</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>77,00</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:49</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Энергобанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=10</Url>
+      <USD>
+        <Buy>65,00</Buy>
+        <Sell>66,70</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,20</Buy>
+        <Sell>76,00</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 12:19</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Росинтербанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=28</Url>
+      <USD>
+        <Buy>64,00</Buy>
+        <Sell>67,00</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,00</Buy>
+        <Sell>76,00</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:07</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Ханты-Мансийский банк Открытие</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=377</Url>
+      <USD>
+        <Buy>64,00</Buy>
+        <Sell>67,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,50</Buy>
+        <Sell>76,70</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:19</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>БАНК УРАЛСИБ</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=406</Url>
+      <USD>
+        <Buy>65,52</Buy>
+        <Sell>66,88</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,81</Buy>
+        <Sell>76,14</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 11:20</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Банк «ФК Открытие»</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=383</Url>
+      <USD>
+        <Buy>64,00</Buy>
+        <Sell>67,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,50</Buy>
+        <Sell>76,70</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 00:27</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>Уральский банк реконструкции и развития</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=56</Url>
+      <USD>
+        <Buy>65,67</Buy>
+        <Sell>66,83</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,05</Buy>
+        <Sell>76,27</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:19</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>ВТБ 24</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=259</Url>
+      <USD>
+        <Buy>64,50</Buy>
+        <Sell>67,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>73,80</Buy>
+        <Sell>76,80</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 07:41</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>БыстроБанк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=288</Url>
+      <USD>
+        <Buy>65,75</Buy>
+        <Sell>66,49</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,10</Buy>
+        <Sell>75,89</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 12:08</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>БКС Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=14</Url>
+      <USD>
+        <Buy>65,80</Buy>
+        <Sell>66,59</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,20</Buy>
+        <Sell>75,99</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 10:19</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>РАДИОТЕХБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=199</Url>
+      <USD>
+        <Buy>64,50</Buy>
+        <Sell>66,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>76,30</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 08:23</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>АЛТЫНБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=354</Url>
+      <USD>
+        <Buy>64,50</Buy>
+        <Sell>67,00</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,10</Buy>
+        <Sell>77,20</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>ИШБАНК</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=934</Url>
+      <USD>
+        <Buy>64,50</Buy>
+        <Sell>66,50</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,00</Buy>
+        <Sell>75,90</Sell>
+      </EUR>
+      <ChangeTime>06.05.2016 09:12</ChangeTime>
+    </Bank>
+  </Actual_Rates>
+  <Not_Actual_Rates>
+    <Bank>
+      <Name>Банк «Камский горизонт»</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=482</Url>
+      <USD>
+        <Buy>65,00</Buy>
+        <Sell>66,20</Sell>
+      </USD>
+      <EUR>
+        <Buy>75,00</Buy>
+        <Sell>76,10</Sell>
+      </EUR>
+      <ChangeTime>05.05.2016 14:34</ChangeTime>
+    </Bank>
+    <Bank>
+      <Name>ЛОКО-Банк</Name>
+      <Url>http://kovalut.ru/bank.php?kod=1601&amp;bank=540</Url>
+      <USD>
+        <Buy>64,90</Buy>
+        <Sell>66,20</Sell>
+      </USD>
+      <EUR>
+        <Buy>74,25</Buy>
+        <Sell>75,55</Sell>
+      </EUR>
+      <ChangeTime>05.05.2016 17:01</ChangeTime>
+    </Bank>
+  </Not_Actual_Rates>
+  <City>
+    <Name>Казань</Name>
+    <Url>http://kovalut.ru/index.php?kod=1601</Url>
+    <Simple_Date>6 мая 2016</Simple_Date>
+    <Digital_Date>06.05.2016</Digital_Date>
+    <USD>
+      <Buy>65,80</Buy>
+      <Sell>66,40</Sell>
+    </USD>
+    <EUR>
+      <Buy>75,25</Buy>
+      <Sell>75,85</Sell>
+    </EUR>
+  </City>
+  <Central_Bank_RF>
+    <USD>
+      <New>
+        <Digital_Date>07.05.2016</Digital_Date>
+        <Exch_Rate>66.1928</Exch_Rate>
+      </New>
+      <Old>
+        <Digital_Date>06.05.2016</Digital_Date>
+        <Exch_Rate>65.8918</Exch_Rate>
+      </Old>
+    </USD>
+    <EUR>
+      <New>
+        <Digital_Date>07.05.2016</Digital_Date>
+        <Exch_Rate>75.5789</Exch_Rate>
+      </New>
+      <Old>
+        <Digital_Date>06.05.2016</Digital_Date>
+        <Exch_Rate>75.5713</Exch_Rate>
+      </Old>
+    </EUR>
+  </Central_Bank_RF>
+</Exchange_Rates>

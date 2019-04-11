@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Crawl-delay: 5
+Disallow: /admin
+Disallow: /404
+Disallow: /news/view/80750
+Disallow: /newsv2/80750.html
+Disallow: /ls/view/2276
+Disallow: /news/view/105025
+Disallow: /news/view/108093
+Disallow: /newsv2/108093.html
+Disallow: /news/view/108122
+Host: prokazan.ru
+Sitemap: http://prokazan.ru/sitemap.xml

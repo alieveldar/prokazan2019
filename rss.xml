@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<atom:link href="http:///rss.xml" rel="self" type="application/rss+xml"/>
+<title></title>
+<link>http://</link>
+<description></description>
+<lastBuildDate>Thu, 04 Apr 2019 16:53:17 +0300</lastBuildDate>
+<image>
+  <url>http:///template/index/logo.png</url>
+  <title></title>
+  <link>http://</link>
+</image>
+<item>
+	<title>Вторая просто статья</title>
+	<author></author>
+	<pubDate>Thu, 28 Mar 2019 13:38:14 +0300</pubDate>
+	<link>http:///news/view/130804</link>
+	<enclosure url="http:///userfiles/picintv/img-20190328133838-159.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130804</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130804"><img src="http:///userfiles/picsquare/img-20190328133838-159.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Просто новость</title>
+	<author></author>
+	<pubDate>Thu, 28 Mar 2019 11:45:57 +0300</pubDate>
+	<link>http:///news/view/130803</link>
+	<enclosure url="http:///userfiles/picintv/img-20190328114628-493.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130803</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130803"><img src="http:///userfiles/picsquare/img-20190328114628-493.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Тестовая новость</title>
+	<author></author>
+	<pubDate>Fri, 22 Mar 2019 09:34:10 +0300</pubDate>
+	<link>http:///news/view/130802</link>
+	<enclosure url="http:///userfiles/picintv/img-20190322093433-174.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130802</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130802"><img src="http:///userfiles/picsquare/img-20190322093433-174.jpg" style="float:left; margin:0 10px 10px 0;"></a>лидлидлид<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Минниханов поручил перевезти изъятого с наркотиками тигренка в Казань</title>
+	<author></author>
+	<pubDate>Wed, 27 Feb 2019 10:18:05 +0300</pubDate>
+	<link>http:///news/view/130801</link>
+	<enclosure url="http:///userfiles/picintv/img-20190227100931-632.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130801</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130801"><img src="http:///userfiles/picsquare/img-20190227100931-632.jpg" style="float:left; margin:0 10px 10px 0;"></a>Он будет жить в зоопарке<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>В Казани со стоянки автосалона угнали Mazda</title>
+	<author></author>
+	<pubDate>Wed, 27 Feb 2019 09:56:59 +0300</pubDate>
+	<link>http:///news/view/130800</link>
+	<enclosure url="http:///userfiles/picintv/img-20190227095814-147.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130800</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130800"><img src="http:///userfiles/picsquare/img-20190227095814-147.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>В Казани отразили "атаку" террористов на гипермаркет. Условно </title>
+	<author></author>
+	<pubDate>Wed, 27 Feb 2019 09:31:41 +0300</pubDate>
+	<link>http:///news/view/130799</link>
+	<enclosure url="http:///userfiles/picintv/img-20190227092916-980.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130799</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130799"><img src="http:///userfiles/picsquare/img-20190227092916-980.jpg" style="float:left; margin:0 10px 10px 0;"></a>Они "напали" на гипермаркет Leroy Merlin<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Спикер Госсовета РТ: Ничего нет труднее партийной работы! Это не работа киркой </title>
+	<author></author>
+	<pubDate>Wed, 27 Feb 2019 09:03:42 +0300</pubDate>
+	<link>http:///news/view/130798</link>
+	<enclosure url="http:///userfiles/picintv/img-20190227090642-395.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130798</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130798"><img src="http:///userfiles/picsquare/img-20190227090642-395.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>В Казани нашли инвестора для реконструкции подземной галереи на Баумана</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 17:51:20 +0300</pubDate>
+	<link>http:///news/view/130797</link>
+	<enclosure url="http:///userfiles/picintv/img-20190227090642-395.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130797</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130798"><img src="http:///userfiles/picsquare/img-20190227090642-395.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>"Выгоняют на улицу с детьми": из-за дороги-дублера в Казани снесут сотни домов</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 17:46:51 +0300</pubDate>
+	<link>http:///news/view/130796</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226172421-234.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130796</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130796"><img src="http:///userfiles/picsquare/img-20190226172421-234.jpg" style="float:left; margin:0 10px 10px 0;"></a>6-полосная трасса пройдет через несколько садоводств<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>В Казани для строительства кольцевой дороги хотят снести дома на сотне участков</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 16:42:19 +0300</pubDate>
+	<link>http:///news/view/130794</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226172421-234.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130794</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130796"><img src="http:///userfiles/picsquare/img-20190226172421-234.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Как в Токио. Минниханов решил, как жителям "Салават Купере" не ездить в Казань</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 16:00:17 +0300</pubDate>
+	<link>http:///news/view/130795</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226161016-116.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130795</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130795"><img src="http:///userfiles/picsquare/img-20190226161016-116.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Школу, где дети учатся на коленях, хотят объединить с другой. Родители против</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 15:38:48 +0300</pubDate>
+	<link>http:///news/view/130789</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226151818-231.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130789</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130789"><img src="http:///userfiles/picsquare/img-20190226151818-231.jpg" style="float:left; margin:0 10px 10px 0;"></a>О протестах и о том, почему нужно объединение<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Появился проект гигантской башни в форме тюбетейки на Казанке</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 15:09:11 +0300</pubDate>
+	<link>http:///news/view/130793</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226151109-685.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130793</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130793"><img src="http:///userfiles/picsquare/img-20190226151109-685.jpg" style="float:left; margin:0 10px 10px 0;"></a>На ее вершине - смотровая площадка<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>В Татарстане осудили посудомойщицу и повара, из-за которых отравились 89 детей</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 14:29:43 +0300</pubDate>
+	<link>http:///news/view/130791</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226151109-685.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130791</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130793"><img src="http:///userfiles/picsquare/img-20190226151109-685.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>В Татарстане скончался 6-месячный ребенок</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 13:50:53 +0300</pubDate>
+	<link>http:///news/view/130790</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226151109-685.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130790</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130793"><img src="http:///userfiles/picsquare/img-20190226151109-685.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Минниханов призвал Метшина повысить рождаемость "на личном примере"</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 13:24:13 +0300</pubDate>
+	<link>http:///news/view/130788</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226132627-393.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130788</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130788"><img src="http:///userfiles/picsquare/img-20190226132627-393.jpg" style="float:left; margin:0 10px 10px 0;"></a>"Мы падаем по республике"<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>У "Казань Арены" собираются построить башню "Тюбетей Tower"</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 12:57:18 +0300</pubDate>
+	<link>http:///news/view/130786</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226121107-289.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130786</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130786"><img src="http:///userfiles/picsquare/img-20190226121107-289.jpg" style="float:left; margin:0 10px 10px 0;"></a>Башня будет представлять из себя здание в форме тюбетейки<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Стало известно, что произошло с мужчиной, который вышел покурить с ножом в спине</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 12:20:42 +0300</pubDate>
+	<link>http:///news/view/130787</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226142835-667.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130787</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130787"><img src="http:///userfiles/picsquare/img-20190226142835-667.jpg" style="float:left; margin:0 10px 10px 0;"></a>Травму он получил, отмечая 23 февраля с приятелями<div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>В Татарстане больного вывезли из деревни в ковше трактора</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 11:52:09 +0300</pubDate>
+	<link>http:///news/view/130785</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226115251-914.png" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130785</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130785"><img src="http:///userfiles/picsquare/img-20190226115251-914.png" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+<item>
+	<title>Минсельхозпрод Татарстана: цена на социальные виды хлеба останется прежней</title>
+	<author></author>
+	<pubDate>Tue, 26 Feb 2019 11:32:34 +0300</pubDate>
+	<link>http:///news/view/130784</link>
+	<enclosure url="http:///userfiles/picintv/img-20190226112843-745.jpg" type="image/jpeg" />
+	<guid isPermaLink="true">http:///news/view/130784</guid>
+	<description><![CDATA[ 
+	<a href="http:///news/view/130784"><img src="http:///userfiles/picsquare/img-20190226112843-745.jpg" style="float:left; margin:0 10px 10px 0;"></a><div style="clear:both;"></div> ]]></description>
+</item>
+</channel>
+</rss>
